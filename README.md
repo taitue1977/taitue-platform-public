@@ -25,6 +25,8 @@ Stack: **Next.js 16** · **Supabase** (Postgres + Auth + Storage) · **Tailwind 
 
 ## Bắt đầu — 6 bước deploy
 
+> 📋 **Người mới**: nên đọc [`STUDENT_CHECKLIST.md`](STUDENT_CHECKLIST.md) trước — checklist 7 tài khoản cần đăng ký, kèm bảng giá domain VN + ước tính chi phí.
+
 ### Bước 1 — Fork repo
 
 Click **Fork** ở góc phải trên cùng của repo này. Hoặc clone về máy:
